@@ -72,6 +72,10 @@ Tipe data yang nilainya tetap.
 
 Metode untuk menyelesaikan permasalahan-permasalahan umum yang berulang atau memiliki pola dalam pengembangan suatu software.
 
+### Paradigm
+
+Paradigma pemrograman adalah gaya atau cara kita menulis program
+
 ### Parse
 
 Proses pemecahan suatu objek menjadi sebuah bentuk baru.
