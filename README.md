@@ -19,6 +19,7 @@
 | [OOP](https://github.com/fadhilhaka/Basic-SOLID/tree/main/OOP) | Intro to OOP |
 | [Relasi OOP](https://github.com/fadhilhaka/Basic-SOLID/tree/main/relasi-OOP) | Types Of Relationships In OOP |
 | [Software Design Principle](https://github.com/fadhilhaka/Basic-SOLID/tree/main/software-design-principle) | Intro to Software Design Principle |
+| [SOLID](https://github.com/fadhilhaka/Basic-SOLID/tree/main/SOLID) | Intro to SOLID |
 
 ## Intention
 
