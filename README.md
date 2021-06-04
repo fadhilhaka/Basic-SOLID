@@ -17,7 +17,8 @@
 | Course | Description |
 |--------|-------------|
 | [OOP](https://github.com/fadhilhaka/Basic-SOLID/tree/main/OOP) | Intro to OOP |
+| [Relasi OOP](https://github.com/fadhilhaka/Basic-SOLID/tree/main/relasi-OOP) | Types Of Relationships In OOP |
 
 ## Intention
 
-This repo is built to learn SOLID principle using provided [syllabus](https://www.dicoding.com/academies/169/tutorials) by [Dicoding](https://www.dicoding.com/users/787116).
+This repo is built to learn SOLID principles using provided [syllabus](https://www.dicoding.com/academies/169/tutorials) by [Dicoding](https://www.dicoding.com/users/787116).
